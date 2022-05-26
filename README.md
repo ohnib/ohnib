@@ -1,7 +1,7 @@
 - 👋 hi im binho :D 
 - 👀 I’m interested in front-end 
 - 🌱 I’m currently learning HTML, CSS, JS & React
-- 🎨 Very CSS Focused 
+- 🎨 I Love CSS effects 
 - 📫 binhodev0@gmail.com
 
 <!---

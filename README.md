@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/ohnib)
 
-<h2 align="center" >$${\color{white}GITHUB/STATISTICS}$$</h2>
-<h3>$${\color{#ff6675}Hard \ Skills}$$</h3>
+<h2 align="center" >GITHUB STATISTICS</h2>
+<h3 align="center">Hard Skills</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ohnib&show_icons=true&theme=radical"/>
 <img align="left"  width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical"/>
 
@@ -27,17 +27,21 @@
 <br>
 <br>
 
-<h3>$${\color{lightblue}Soft \ Skills}$$</h3>
+<h3 align="center">Soft Skills</h3>
 
 <p align="center">
 <br>
-<span align="center">$${\color{lightblue}Fast \ learner}$$</span>
+<br>
+<span align="center">Fast Learner</span>
+<br>
 i always try to learn the fundamentals of whatever im learning, and that gives me advantage on programming since i can use similar concepts on different languages, and also my inquisitiveness drives me positively for that aspect.
 </p>
 <br>
 <br>
 <p align="center">
-<span align="center">$${\color{orange}Communication \ and \ \ Teamwork}$$</span>
+<br>
+<span align="center">Communication and teamwork</span>
+<br>
 Developing in general has multiple steps, and keeping a good communication with both developers and designers makes a big difference you can solve problems with ease and also you can be way more efficient and quicker.
 </p>
 <br>

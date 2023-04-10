@@ -2,8 +2,8 @@
 
 <h2 align="center" >GITHUB STATISTICS</h2>
 <h3 align="center">Hard Skills</h3>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ohnib&show_icons=true&theme=radical"/>
-<img align="left"  width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ohnib&show_icons=true&theme=dark"/>
+<img align="left"  width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark"/>
 
 <br>
 <div align="left"
